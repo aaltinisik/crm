@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: crm (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-24 01:43+0000\n"
-"PO-Revision-Date: 2017-06-30 08:53+0000\n"
+"POT-Creation-Date: 2017-11-25 03:17+0000\n"
+"PO-Revision-Date: 2017-11-30 19:09+0000\n"
 "Last-Translator: OCA Transbot <transbot@odoo-community.org>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/oca/OCA-crm-8-0/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
@@ -25,7 +25,7 @@ msgstr ""
 #. module: crm_claim_type
 #: field:crm.claim.type,active:0
 msgid "Active"
-msgstr ""
+msgstr "Actief"
 
 #. module: crm_claim_type
 #: view:crm.claim:crm_claim_type.crm_case_claims_search_view
@@ -77,12 +77,12 @@ msgstr ""
 #. module: crm_claim_type
 #: field:crm.claim.type,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Aangemaakt door"
 
 #. module: crm_claim_type
 #: field:crm.claim.type,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Aangemaakt op"
 
 #. module: crm_claim_type
 #: model:crm.claim.type,name:crm_claim_type.crm_claim_type_customer
@@ -92,7 +92,7 @@ msgstr "Klant"
 #. module: crm_claim_type
 #: field:crm.claim.type,description:0
 msgid "Description"
-msgstr ""
+msgstr "Omschrijving"
 
 #. module: crm_claim_type
 #: field:crm.claim.type,display_name:0
@@ -107,7 +107,7 @@ msgstr ""
 #. module: crm_claim_type
 #: view:crm.claim.stage:crm_claim_type.crm_stage_claim_type_search
 msgid "Group By"
-msgstr ""
+msgstr "Groeperen op"
 
 #. module: crm_claim_type
 #: field:crm.claim.type,id:0
@@ -129,17 +129,17 @@ msgstr "Laatst gewijzigd op"
 #. module: crm_claim_type
 #: field:crm.claim.type,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Laatst bijgewerkt door"
 
 #. module: crm_claim_type
 #: field:crm.claim.type,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Laatst bijgewerkt op"
 
 #. module: crm_claim_type
 #: field:crm.claim.type,name:0
 msgid "Name"
-msgstr ""
+msgstr "Naam"
 
 #. module: crm_claim_type
 #: model:crm.claim.type,name:crm_claim_type.crm_claim_type_other
@@ -154,7 +154,7 @@ msgstr ""
 #. module: crm_claim_type
 #: model:crm.claim.type,name:crm_claim_type.crm_claim_type_supplier
 msgid "Supplier"
-msgstr ""
+msgstr "Leverancier"
 
 #. module: crm_claim_type
 #: view:crm.claim:crm_claim_type.crm_case_claims_search_view
